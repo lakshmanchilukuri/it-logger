@@ -1,0 +1,47 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "aaa",
+      "critical": false,
+      "technician": "Alliser Thorne",
+      "date": "2021-02-07T08:52:47.814Z"
+    },
+    {
+      "message": "bbb",
+      "critical": false,
+      "technician": "Jon Snow",
+      "date": "2021-02-07T08:35:23.013Z",
+      "id": 2
+    },
+    {
+      "message": "nnnn",
+      "critical": true,
+      "technician": "Alliser Thorne",
+      "date": "2021-02-07T08:35:29.069Z",
+      "id": 3
+    }
+  ],
+  "techs": [
+    {
+      "firstName": "samwell",
+      "lastName": "Tarley",
+      "id": 1
+    },
+    {
+      "firstName": "Jon",
+      "lastName": "Snow",
+      "id": 2
+    },
+    {
+      "firstName": "Alliser",
+      "lastName": "Thorne",
+      "id": 3
+    },
+    {
+      "firstName": "laks",
+      "lastName": "chil",
+      "id": 4
+    }
+  ]
+}
